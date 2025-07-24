@@ -21,7 +21,7 @@ An intelligent system that leverages machine learning to detect fraudulent activ
 
 ## 🧾 About
 
-Fraud detection is a critical component in finance, banking, and e-commerce. This AI-powered solution uses supervised learning algorithms to identify fraudulent transactions by analyzing historical patterns. The system improves accuracy through data preprocessing, feature engineering, and optimized model selection.
+Fraud detection is a critical component in finance, banking, and e-commerce. This [AI-powered solution](https://cyfuture.ai) uses supervised learning algorithms to identify fraudulent transactions by analyzing historical patterns. The system improves accuracy through data preprocessing, feature engineering, and optimized model selection.
 
 ---
 
